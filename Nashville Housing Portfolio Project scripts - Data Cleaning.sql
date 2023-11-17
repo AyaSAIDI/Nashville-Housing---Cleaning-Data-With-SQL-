@@ -136,7 +136,7 @@ FROM RowNumCTE
 Where row_num>1
 
 
--- Delet Unused Columns 
+-- Delete Unused Columns 
 
 Select * 
 FROM NashvilleHousing
